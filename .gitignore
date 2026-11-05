@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+.env
+.env.*
+models/*.joblib
+Untitled.ipynb
+ml-practice.ipynb
+students.csv
+heart_disease_backup.ipynb
+heart.csv
